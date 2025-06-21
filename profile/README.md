@@ -1,4 +1,4 @@
-# kriyo.network (kriyo)
+# kriyo
 
 **Kriyo** is a local-first, peer-to-peer framework for building **trust-aware applications** that work without cloud platforms, centralized servers, or blockchain dependencies.
 
