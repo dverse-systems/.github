@@ -1,6 +1,6 @@
-# kriyo
+# d-verse
 
-**Kriyo** is a local-first, peer-to-peer framework for building **trust-aware applications** that work without cloud platforms, centralized servers, or blockchain dependencies.
+**d-verse** is a local-first, peer-to-peer framework for building **trust-aware applications** that work without cloud platforms, centralized servers, or blockchain dependencies.
 
 It enables developers to build systems where logic is portable, identities are cryptographically verifiable, and data can be shared, executed, and stored locally or across trusted peers. Apps built with Kriyo can function offline, sync via distributed protocols, and enforce rules defined in signed capsules — not external platforms.
 
